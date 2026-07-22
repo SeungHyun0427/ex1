@@ -1,0 +1,5 @@
+﻿shape_code,ibj_length_mm,obj_length_mm,fuse_diameter_mm,fuse_length_mm,fuse_position_mm,shaft_diameter_mm,curve_radius_mm,curve_angle_deg,offset_distance_mm,transition_length_mm
+SF,272.5,156.5,12.35,36.5,118.5,0.0,0.0,0.0,0.0,0.0
+CF,272.5,156.5,12.35,36.5,118.5,0.0,337.5,13.7,0.0,0.0
+OF,272.5,156.5,12.35,36.5,118.5,0.0,0.0,0.0,17.3,92.5
+CNF,272.5,156.5,0.0,0.0,0.0,16.7,337.5,13.7,0.0,0.0
